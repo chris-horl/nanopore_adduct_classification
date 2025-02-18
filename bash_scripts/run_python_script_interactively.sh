@@ -1,0 +1,1 @@
+srun --gres=gpu --time=03:00:00 --mem=90G --partition=gpushort python -m $1
